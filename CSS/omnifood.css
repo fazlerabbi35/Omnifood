@@ -1,0 +1,414 @@
+/*Header-section Start*/
+
+.nav-sec {
+	background: linear-gradient(to right, #008780, #008f9b);
+	padding: 10px 0px 10px 0px;
+}
+.nav-sec .collapse ul li a {
+	color: #fff;
+	margin-right: 10px;
+}
+.nav-sec .collapse ul li a:hover{
+	background: #00c29e;
+	border-radius: 5px;
+
+}
+.nav-sec .collapse ul li:last-child a{
+	margin-right: 0px;
+}
+
+/*Header-section End*/
+
+/*Banner-section Start*/
+.banner {
+	background: url(../Image/banner.png);
+	background-size: cover;
+	background-position: center;
+
+}
+.banner .row{
+	min-height: 700px;
+}
+.hero {
+	color: #ffffff;
+	margin-bottom: 5%;
+
+}
+.heroin {
+	font-weight: 500;
+}
+.villain {
+	font-weight: 100;
+}
+.btn {
+	color: #fff;
+	margin-top: 5%;
+	border: 1px solid #fff;
+}
+.btn-sub {
+	margin-right: 1%;
+	background: #008f9e;
+}
+.btn-sub:hover{
+	background: none;
+	color: #fff;
+}
+.btn-ghost:hover{
+	background: #008f9e;
+	color: #fff;
+}
+
+/*Banner-section End*/
+
+
+
+/*Feature-section Start*/
+
+.features {
+	padding: 80px 0px 100px 0px;
+	background: #e9e9e9;
+}
+.features .row {
+	
+}
+.get {
+	text-align: center;
+	font-weight: 500;
+	margin-bottom: 3%;
+}
+.get2 {
+	text-align: center;
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 5%;
+
+}
+.img-fluid1{
+	width: 30%;
+    display: inline-block;
+    margin-left: 35%;
+    margin-bottom: 5%;
+}
+.features .card h5 {
+	text-align: center;
+	
+
+}
+.features .card p {
+	text-align: center;
+}
+
+.card-body {
+	height: 320px;
+	width: 250px;
+}
+/*Feature-section End*/
+
+/*Mobile-Section Start*/
+.mobile {
+	padding: 60px 0px 60px 0px;
+	background: #fff;
+}
+.how {
+	text-align: center;
+	margin-bottom: 3%;
+}
+.img-fluid2 {
+	float: right;
+}
+.mobile .col-6 .sari{
+	margin-top: 10%;
+}
+.mobile .col-6 .row {
+	margin-bottom: 3%;
+}
+.num {
+	border: 3px solid #00867f;
+	font-size: 35px;
+	font-weight: 500;
+	text-align: center;
+	border-radius:30px;
+
+}
+.text1 {
+	margin-top: 1%;
+	margin-left: -3%;
+	width: 74%;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.mobile .col-6 .sari .google{
+	margin-top: 10%;
+}
+/*Mobile-Section End*/
+
+
+/*Cities-section Start*/
+.cities {
+	padding: 60px 0px 60px 0px;
+	background: #e9e9e9;
+}
+.citi {
+	text-align: center;
+	margin-bottom: 5%;
+}
+.card-4{
+	height: 350px;
+	width: 220px;
+	margin: 0 auto;
+}
+.card-title1 {
+	margin-left: -6%;
+	margin-top: -7%;
+}
+.card-title2 {
+	margin-left: -6%;
+	margin-top: -7%;
+}
+.card-title3 {
+	margin-left: -6%;
+	margin-top: -7%;
+}
+.card-title4 { 
+	margin-left: -6%;
+	margin-top: -7%;
+}
+.card-img-top {
+	height: 180px;
+	width: 220px; 
+}
+.cities .row .col-3 {
+	margin-left: 6%;
+	margin-right: -9%;
+}
+.img-fluid8 {
+	height: 15px;
+	width: 20px;
+	display: inline-block;
+}
+.card-text {
+	display: inline-block;
+}
+.part1 {
+	margin-bottom: 3%;
+}
+/*Cities-section End*/
+
+
+/*Testimonial-section Start*/
+.testimonial{
+	background: url(../Image/back-customers.png);
+	background-size: cover;
+	background-position: center;
+	min-height: 500px;
+	padding-top: 50px;
+	
+}
+.test1 {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 3%;
+}
+.quation {
+	color: #fff;
+	font-size: 40px;
+	font-weight: 500;
+	margin-right: 8%;
+}
+.text-4 {
+	color: #fff;
+	text-align: center;
+	width: 38%;
+	margin-left: 30%;
+	margin-bottom: 4%;
+}
+.img-fluid4 {
+	float: right;
+}
+.joana {
+	color: #ffffff;
+	margin-top: 5%;
+	font-size: 25px;
+}
+.img-fluid5 {
+	margin-top: 5%;
+	margin-left: 45%;
+}
+/*Testimonial-section End*/
+
+/*Plans-section Start*/
+.plan {
+	padding: 60px 0px 60px 0px;
+	background: #e9e9e9;
+}
+.plan .row .col-4 {
+	margin-right: -8%;
+	margin-left: 5%;
+}
+.our {
+	text-align: center;
+	margin-bottom: 3%;
+}
+.plan .row .card {
+	height: 380px;
+	width: 320px;
+}
+.plan .row .card:hover {
+	background: #008882;
+}
+.plan .row .card:hover .card-body  {
+	color: #ffffff;
+}
+.plan .row .card:hover .card-link {
+	color: #ffffff;
+	background: #008f9e;
+	border: 2px solid #ffffff;
+}
+.card-title {
+	text-align: center;
+}
+.card-subtitle {
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 7%;
+}
+.meal {
+	font-size: 30px;
+	font-weight: 500;
+	margin-right: 4%;
+}
+.plan .row .card .row {
+	margin: 0 auto;
+	width: 155%;
+}
+.plan .row .card .row .text-b {
+	margin-left: -10%;
+	
+}
+.card-link {
+	border: 2px solid #00867d;
+	text-align: center;
+	text-decoration: none;
+	padding: 8px 10px;
+	margin-left: 35%;
+	color: #000000;
+	font-weight: 500;
+	margin-top: 10%;
+}
+.textio {
+	margin-bottom: 20%;
+}
+/*Plans-section End*/
+
+
+/*CONNECT-section Start*/
+.connect {
+	padding: 60px 0px 60px 0px;
+}
+.form1 {
+	width: 45%;
+	margin-left: 25%;
+}
+.form-control{
+	background: #e9e9e9;
+}
+.btn1 {
+	border: 2px solid #00867e;
+	text-align: center;
+	margin-top: 3%;
+	margin-left: 35%;
+	background: transparent;
+	border-radius: 5px;
+	padding: 8px 12px;
+	position: relative;
+}
+.btn1::before {
+	content:"";
+	top: 0%;
+	left: 0%;
+	height: 0%;
+	width: 100%;
+	background: #00867e;
+	position: absolute;
+	z-index: -1;
+	transition: all 1s ease-in;
+}
+.btn1:hover:before {
+	height: 100%;
+}
+/*CONNECT-section End*/
+
+/*Map-section Start*/
+.map {
+	padding: 80px 0px 80px 0px;
+	background: url(../Image/portugal-839817_1920.png);
+	background-size: cover;
+	background-position: center;
+}
+.img-fluid6 {
+	float: right;
+}
+.map .row .row {
+	margin-bottom: 3%;
+	margin-top: 14%;
+}
+.map .row .row .text-m {
+	color: #fff;
+	margin-left: -15%;
+	font-size: 20px;
+	font-weight: 400;
+}
+.map .row .text-add {
+	color: #fff;
+	margin-left: 5%;
+}
+.map .row .text-add .text6 {
+	margin-bottom: 1%;
+	font-size: 15px;
+}
+
+.get3 {
+	color: #fff;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.icon-2 {
+	margin-left: 3%;
+	color: #000000;
+}
+.icon-2 .fa-facebook {
+	background: #fff;
+	padding: 6px 10px;
+	border-radius: 50%;
+	margin-right: 1%;
+}
+.icon-2 .fa-twitter {
+	background: #fff;
+	padding: 6px 10px;
+	border-radius: 50%;
+	margin-right: 1%;
+} 
+.fa-customers{
+	color: black;
+}
+.icon-2 .fa-google {
+	background: #fff;
+	padding: 6px 10px;
+	border-radius: 50%;
+	margin-right: 1%;
+} 
+.icon-2 .fa-instagram {
+	background: #fff;
+	padding: 6px 10px;
+	border-radius: 50%;
+	
+}
+.f-icon {
+	text-decoration: none;
+	color: #000000;
+}
+.f-icon:hover {
+	color: #0657ff;
+	transition: all .3s ease-in;
+}
+/*Map-section End*/
